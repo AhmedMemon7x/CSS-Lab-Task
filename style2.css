@@ -1,0 +1,48 @@
+*{
+    /* background-color: black; */
+}
+.google {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.google_logo{
+  width: 500px;
+  margin-bottom: 30px;
+  margin-left: 140px;
+}
+.google1 {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  border-radius: 40px;
+  padding: 10px 40px 10px 30px;
+  margin: 30px -170px 38px;
+  width: 40vw;
+  color: rgb(0, 0, 0);
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  margin: 0px -17px 4px 32px;
+  border-radius: 10px;
+  color: rgb(0, 0, 0);
+}
+
+.one {
+  display: flex;
+  justify-content: center;
+  margin: 20px 211px -87px 10px;
+  color: rgb(0, 0, 0);
+}
+body{
+  background-image: url(/1216331.webp);
+}

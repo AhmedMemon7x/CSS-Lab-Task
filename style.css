@@ -1,0 +1,141 @@
+*{
+    margin: 0%;
+    padding: 0%;
+ 
+}
+/* Task 1 */
+.mega
+{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    background-color: yellow;
+    border: 1px solid black;
+    height: 250px;
+    width: 30vw;
+    border-left: transparent;
+    margin-bottom: 5px;
+}
+.h1{
+    padding: 20px ;
+    color: red;
+}
+.p{
+    color: green;
+    text-align: right;
+    font-size: 20px;
+}
+.p2{
+    color: blue;
+    font-size: 30px;
+    padding: 20px;
+}
+/* Task 2 */
+.mega2{
+    display: flex;
+    justify-content: center;
+}
+.container2{
+    background-color: pink;
+    height: 250px;
+    width: 30vw;
+    margin-bottom: 5px;
+}
+.red{
+    color: red;
+    text-align: center;
+    padding: 10px 0px;
+}
+.blue{
+    color: blue;
+    padding: 10px 0px;
+    font-size: 20px;
+}
+/* Task 5 */
+.mega3{
+    display: flex;
+    justify-content: center;
+}
+.container3{
+    height: 180px;
+    width: 35vw;
+    border: 2px solid black;
+    margin-bottom: 5px;
+}
+.grey{
+    font-size: 30px;
+    margin: 25px;
+    background-color: grey;
+}
+.blue2{
+font-size: 25px;
+margin: 22px;
+background-color: rgba(58, 87, 185, 0.527);
+}
+.yellow{
+    font-size: 15px;
+    margin: 25px;
+   background-color: yellow;
+}
+/* Task 6 */
+.mega4
+{
+display: flex;
+justify-content: center;
+}
+.container4{
+    border: 5px solid black;
+    width: 50vw;
+    height: 180px;
+    margin-bottom: 5px;
+}
+.line{
+    text-decoration:overline ;
+    padding: 7px;
+}
+.line1{
+    text-decoration:line-through ;
+    padding: 7px;
+}
+.line2{
+    text-decoration:underline ;
+    padding: 7px ;
+}
+.line3{
+    text-decoration: none;
+    padding: 10px;
+}
+/* Task 7 */
+.mega5{
+    display: flex;
+    justify-content: center;
+}
+.container5{
+    background-color: aqua;
+    padding: 25px 50px 75px 100px;
+    border: 2px solid black;
+    width: 30vw;
+    margin-bottom: 5px;
+}
+/* Task 8 */
+.box1
+{
+    display: flex;
+    justify-content: center;
+}
+.box2
+{
+    background-color: gray;
+    padding: 50px;
+    margin: 20px;
+    border: 15px solid green;
+    width: 40vw;
+    height: 40vh;
+}
+
+
+
+
+
+
